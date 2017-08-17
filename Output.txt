@@ -1,0 +1,685 @@
+Please enter the String keyword to Search: 
+bieber
+Aquired temporary token...
+
+Go to the following link in your browser:
+https://api.twitter.com/oauth/authorize?oauth_token=Vtko4QAAAAAAdPF0AAABXfFl3uk
+
+Please enter the retrieved PIN:
+3717075
+
+Authorization was successful
+....................................................................................................
+Tweet Fetched: [id: 898246388726804480,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT @PapetheGreat: New justin Bieber is fire as usual 🔥,
+user: [id: 391424411,created_at: Sat Oct 15 17:04:01 CEST 2011,name: Daika,screen_name: daika04]]
+
+
+Tweet Fetched: [id: 898246369395318784,
+created_at: Thu Aug 17 20:13:17 CEST 2017,
+text: @TeamBieber24hr Chefe é chefe néh pai rsrs #Friends #MTVHottest Justin Bieber,
+user: [id: 517843822,created_at: Wed Mar 07 19:50:47 CET 2012,name: Danielle Pardo Rey,screen_name: DaniPardoRey]]
+
+
+Tweet Fetched: [id: 898246361841369088,
+created_at: Thu Aug 17 20:13:15 CEST 2017,
+text: RT @JDBVoteSpree: Can we still be friends?
+
+#MTVHottest Justin Bieber,
+user: [id: 3237226140,created_at: Fri Jun 05 23:23:56 CEST 2015,name: Miros🌸.,screen_name: miros_samaniego]]
+
+
+Tweet Fetched: [id: 898246349115621376,
+created_at: Thu Aug 17 20:13:12 CEST 2017,
+text: RT @IsTeamBiebers: Solo
+una
+Belieber
+dará
+RT
+a 
+esto
+por
+Justin
+#MTVHottest Justin Bieber,
+user: [id: 782293783631261696,created_at: Sat Oct 01 20:59:07 CEST 2016,name: Charlotte P🇻🇪,screen_name: charls_1009]]
+
+
+Tweet Fetched: [id: 898246356950695936,
+created_at: Thu Aug 17 20:13:14 CEST 2017,
+text: #Diet #Nutrition #Digital #Camera: #Canon EOS Rebel T6 Digital SLR Camera with EF-S 18-55mm…… https://t.co/SRwFf9HY07,
+user: [id: 414391612,created_at: Thu Nov 17 01:30:55 CET 2011,name: Justin Bieber Things,screen_name: JustinBieber4v]]
+
+
+Tweet Fetched: [id: 898246342451113985,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @biebercharts: The impact of Justin Bieber's new single '#Friends' has crashed the iTunes around the world.,
+user: [id: 1089371077,created_at: Mon Jan 14 16:42:15 CET 2013,name: justin/ friends,screen_name: omgbieb3r]]
+
+
+Tweet Fetched: [id: 898246390203129858,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT @PapetheGreat: New justin Bieber is fire as usual 🔥,
+user: [id: 774551106135298049,created_at: Sat Sep 10 12:12:29 CEST 2016,name: Riya,screen_name: biebizzledout_]]
+
+
+Tweet Fetched: [id: 898246340244668416,
+created_at: Thu Aug 17 20:13:10 CEST 2017,
+text: RT @TheJBCrewdotcon: "Friends" by Justin Bieber with BloodPop has hit #5 on iTunes in the US less than 2 hours from its release! Where i… ,
+user: [id: 808948122789564416,created_at: Wed Dec 14 09:13:56 CET 2016,name: justin ✨,screen_name: drewxfivi]]
+
+
+Tweet Fetched: [id: 898246380514406404,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT N0PRESSURE_JB: #MTVHottest Justin Bieber https://t.co/CqpNj4bsAx,
+user: [id: 890326510393073664,created_at: Wed Jul 26 23:42:36 CEST 2017,name: JB,screen_name: N0PRESSURE_JB]]
+
+
+Tweet Fetched: [id: 898246385190961152,
+created_at: Thu Aug 17 20:13:21 CEST 2017,
+text: RT N0PRESSURE_JB: #MTVHottest Justin Bieber https://t.co/ySQsLAioC2,
+user: [id: 890326510393073664,created_at: Wed Jul 26 23:42:36 CEST 2017,name: JB,screen_name: N0PRESSURE_JB]]
+
+
+Tweet Fetched: [id: 898246388378685440,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT N0PRESSURE_JB: #MTVHottest Justin Bieber https://t.co/iOrjGd43lo,
+user: [id: 890326510393073664,created_at: Wed Jul 26 23:42:36 CEST 2017,name: JB,screen_name: N0PRESSURE_JB]]
+
+
+Tweet Fetched: [id: 898246346729238528,
+created_at: Thu Aug 17 20:13:12 CEST 2017,
+text: RT @_deadputa: Estou a tentar entender porque é que fizeram esta comparação https://t.co/0Oa9sXDAip,
+user: [id: 761604083723694080,created_at: Fri Aug 05 18:45:38 CEST 2016,name: CARVALHO 💨,screen_name: zecarvalho_17]]
+
+
+Tweet Fetched: [id: 898246380547735552,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT @biebercharts: The impact of Justin Bieber's new single '#Friends' has crashed the iTunes around the world.,
+user: [id: 874443766853234688,created_at: Tue Jun 13 03:50:15 CEST 2017,name: ShawnSmile,screen_name: SmileShawn1]]
+
+
+Tweet Fetched: [id: 898246344250458113,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @belieberbrsquad: Divulgação pesada né Bieber?
+Justin mudou até sua foto de capa do Twitter pra promover #Friends. https://t.co/za6h5fPR…,
+user: [id: 765424182444355584,created_at: Tue Aug 16 07:45:20 CEST 2016,name: FRIENDS TODAY,screen_name: BieberYasmiin]]
+
+
+Tweet Fetched: [id: 898246357911166976,
+created_at: Thu Aug 17 20:13:14 CEST 2017,
+text: RT @HelpBiebercito: EU NESSE EXATO MOMENTO! GENTE, QUE HINÃO DA PORRA
+AMÉM JUSTIN BIEBER
+QUE HINOOOOOOOOOO
+CAN WE BE #Friends https://t.co/…,
+user: [id: 765424182444355584,created_at: Tue Aug 16 07:45:20 CEST 2016,name: FRIENDS TODAY,screen_name: BieberYasmiin]]
+
+
+Tweet Fetched: [id: 898246391289397248,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: one direction &amp; justin bieber stans are the craziest,
+user: [id: 3379122777,created_at: Thu Jul 16 20:40:17 CEST 2015,name: kayla,screen_name: hespinkiwi]]
+
+
+Tweet Fetched: [id: 898246354459348993,
+created_at: Thu Aug 17 20:13:14 CEST 2017,
+text: if you stan justin bieber you’ll never be disappointed in his music for sure,
+user: [id: 2912940049,created_at: Fri Nov 28 17:19:37 CET 2014,name: fidan ☀️,screen_name: fmammedzadeh]]
+
+
+Tweet Fetched: [id: 898246382489788417,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT @BMBRUpdates: Estão nos trends tudo ao mesmo tempo, SOCORRO!
+
+"#Friends" 
+"CAN WE"
+"5 MINUTOS"
+"AMÉM JUSTIN BIEBER"
+"QUE HINOOOOO… ,
+user: [id: 761690069946228738,created_at: Sat Aug 06 00:27:19 CEST 2016,name: lenna,screen_name: buteollgjb]]
+
+
+Tweet Fetched: [id: 898246391071260672,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT @justinst4n: #Friends Justin Bieber O mundo é seu e só vivemos nele pq vc deixa https://t.co/4FUI4RqUhP,
+user: [id: 758145449329037313,created_at: Wed Jul 27 05:42:15 CEST 2016,name: 🌷g i o v a n n a🌷,screen_name: GiovannaBerto18]]
+
+
+Tweet Fetched: [id: 898246348759334912,
+created_at: Thu Aug 17 20:13:12 CEST 2017,
+text: RT @polemicollgx: nao satisfeito em desbancar ele mesmo, justin bieber ainda trava o itunes, isso aqui eh talento pra crl familia… ,
+user: [id: 755586350066302977,created_at: Wed Jul 20 04:13:19 CEST 2016,name: THANK YOU JUSTIN,screen_name: ollgofjayb]]
+
+
+Tweet Fetched: [id: 898246367008653312,
+created_at: Thu Aug 17 20:13:17 CEST 2017,
+text: justin bieber só me tomba com esse hinos #Friends,
+user: [id: 851504994,created_at: Fri Sep 28 20:16:31 CEST 2012,name: nathy,screen_name: laughszarry]]
+
+
+Tweet Fetched: [id: 898246346427293697,
+created_at: Thu Aug 17 20:13:12 CEST 2017,
+text: RT @teambieberbraz_: Justin Bieber travou o iTunes com #Friends . https://t.co/zkrMW1Rat5,
+user: [id: 371382858,created_at: Sat Sep 10 21:02:13 CEST 2011,name: ❀ lari 🌙,screen_name: thurpurpose]]
+
+
+Tweet Fetched: [id: 898246369206386688,
+created_at: Thu Aug 17 20:13:17 CEST 2017,
+text: RT @myjornauls: os haters achando que ficariam livres do ícone do pop vulgo justin bieber #friends https://t.co/cecKVQOSD0,
+user: [id: 371382858,created_at: Sat Sep 10 21:02:13 CEST 2011,name: ❀ lari 🌙,screen_name: thurpurpose]]
+
+
+Tweet Fetched: [id: 898246350508347393,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: RT @JustinProjetoBR: MINI MUTIRÃO DE FOTOS /Hayanny 
+
+FRIENDS TODAY
+#MTVHottest Justin Bieber https://t.co/hlE4A6g7aq,
+user: [id: 859364875541389312,created_at: Tue May 02 13:12:07 CEST 2017,name: Votação Bieber,screen_name: votingbieberbra]]
+
+
+Tweet Fetched: [id: 898246363955081217,
+created_at: Thu Aug 17 20:13:16 CEST 2017,
+text: RT @IsTeamBiebers: Solo
+una
+Belieber
+dará
+RT
+a 
+esto
+por
+Justin
+#MTVHottest Justin Bieber,
+user: [id: 2307579212,created_at: Fri Jan 24 03:30:55 CET 2014,name: VERDE FOREVER 💚🙌,screen_name: za_ludmila]]
+
+
+Tweet Fetched: [id: 898246350101389312,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: RT @AnnaWasNotOnPWT: @anegadobiba ta solteiro porque quer,já dei várias chances pra ele #MTVHotestt Justin Bieber,
+user: [id: 4862378446,created_at: Sat Jan 30 03:06:24 CET 2016,name: MySweetStyles,screen_name: MySweetStyles1]]
+
+
+Tweet Fetched: [id: 898246363133206528,
+created_at: Thu Aug 17 20:13:16 CEST 2017,
+text: Will 'Friends' Be Justin Bieber's Third Hot 100 No. 1 of 2017? Vote! - Billboard https://t.co/Zfdw80NuKv,
+user: [id: 766122921102311424,created_at: Thu Aug 18 06:01:53 CEST 2016,name: Justin Marry Me,screen_name: justin_i_do]]
+
+
+Tweet Fetched: [id: 898246363552522240,
+created_at: Thu Aug 17 20:13:16 CEST 2017,
+text: RT @biebercharts: iTunes UK: 🇬🇧
+
+8. Justin Bieber + BloodPop® - #Friends (+10) https://t.co/blAEHfEgyE,
+user: [id: 3438110151,created_at: Mon Aug 24 18:30:48 CEST 2015,name: THANK YOU JUSTIN ❤️,screen_name: 1994BizzleJ]]
+
+
+Tweet Fetched: [id: 898246344824856576,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @jrajbelieber: Perfect song. I just loved it. Listening it on repeat. 
+Can we be friends?
+#MTVHottest Justin Bieber https://t.co/VjtoLDj…,
+user: [id: 2310925990,created_at: Wed Jan 29 02:24:24 CET 2014,name: Eli🤙🏼,screen_name: BiebsEliek]]
+
+
+Tweet Fetched: [id: 898246375065911296,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: sen justin bieber dinliyosun, ben Ahmet Kaya dinliyorum baştan imkansız bu ilişki,
+user: [id: 637014346,created_at: Mon Jul 16 16:24:37 CEST 2012,name: beyzz,screen_name: beyzadiyorrki]]
+
+
+Tweet Fetched: [id: 898246342035726336,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @JustinProjetoBR: Hino×Hino 
+
+RT TO VOTE ~Gio~
+
+Bieber
+#MTVHottest Justin Bieber,
+user: [id: 714240414878998528,created_at: Mon Mar 28 01:59:19 CEST 2016,name: Vitoria,screen_name: Bieberhauhl]]
+
+
+Tweet Fetched: [id: 898246388332580864,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT @biebercharts: iTunes Brasil: 🇧🇷
+
+1. Justin Bieber + BloodPop® - Friends (+8)
+
+1st #1 https://t.co/tcsIe8NF1D,
+user: [id: 714240414878998528,created_at: Mon Mar 28 01:59:19 CEST 2016,name: Vitoria,screen_name: Bieberhauhl]]
+
+
+Tweet Fetched: [id: 898246349304455168,
+created_at: Thu Aug 17 20:13:12 CEST 2017,
+text: justin bieber milli tabi ne saniyorsun selenayla bebekleri bile oldu aldirdilar,
+user: [id: 701175916093902848,created_at: Sat Feb 20 23:45:40 CET 2016,name: ‏ㅤً,screen_name: boutkarIa]]
+
+
+Tweet Fetched: [id: 898246339481538560,
+created_at: Thu Aug 17 20:13:10 CEST 2017,
+text: RT @falltoukidrauhl: se eu sou fã de justin bieber ainda bem que eu sou fã de justin bieber #Friends,
+user: [id: 1000129280,created_at: Sun Dec 09 21:41:14 CET 2012,name: Izzy :) FRIENDS,screen_name: cazzobizzle]]
+
+
+Tweet Fetched: [id: 898246335920455680,
+created_at: Thu Aug 17 20:13:09 CEST 2017,
+text: RT @BieberSideBR: Conforme os minutos vão passando, #Friends sobe o ranking no iTunes Mundial. Que lacre meu povo. #MTVHottest Justin… ,
+user: [id: 876512343810875392,created_at: Sun Jun 18 20:50:02 CEST 2017,name: Sah 💜,screen_name: sarabel49]]
+
+
+Tweet Fetched: [id: 898246390412746754,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT @backupbieberbra: Justin Bieber via Instagram: "Seu garoto está doente, sinusite é uma droga." https://t.co/mSkTlrxm2S,
+user: [id: 876512343810875392,created_at: Sun Jun 18 20:50:02 CEST 2017,name: Sah 💜,screen_name: sarabel49]]
+
+
+Tweet Fetched: [id: 898246352160870400,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: @Bellieeber4ever MARAVILHOSAMENTE LINDA E MT GOSTOSA DE OUVIR, AQUELA VOZ DELE... AAAAAAAAAH 
+#MTVHottest Justin Bieber,
+user: [id: 4764835909,created_at: Fri Jan 15 22:43:55 CET 2016,name: JuJu ❤️,screen_name: JujuBieberFVR]]
+
+
+Tweet Fetched: [id: 898246378379280384,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT @biebercharts: iTunes Brasil: 🇧🇷
+
+1. Justin Bieber + BloodPop® - Friends (+8)
+
+1st #1 https://t.co/tcsIe8NF1D,
+user: [id: 784721884185255936,created_at: Sat Oct 08 13:47:31 CEST 2016,name: anna,screen_name: csmilakitten]]
+
+
+Tweet Fetched: [id: 898246352261578752,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: RT @BMBRUpdates: UMA LETRA DESSAS! 😱🔥
+
+Confira: Letra e tradução COMPLETA de #Friends, novo single de Justin Bieber! https://t.co/63xZoMfOKg,
+user: [id: 1388217031,created_at: Mon Apr 29 01:52:57 CEST 2013,name: Gabi,screen_name: Gabiroka_aa]]
+
+
+Tweet Fetched: [id: 898246341633212416,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @justingenerous: parabéns justin bieber por ser esse artista incrível merecedor de tudo que conquista pq talento e competência vc tem de…,
+user: [id: 777743799221100544,created_at: Mon Sep 19 07:39:06 CEST 2016,name: yara FRIENDS,screen_name: imtheari]]
+
+
+Tweet Fetched: [id: 898246350969610241,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: RT @jdbfollowhelp: RT IF YOU ARE EXCITED FOR NEW SINGLE #FRIENDS LAST 1 HOUR
+
+#MTVHOTTEST Justin Bieber,
+user: [id: 817214854633115648,created_at: Fri Jan 06 04:42:59 CET 2017,name: brizel biebs,screen_name: ManningsBrizel]]
+
+
+Tweet Fetched: [id: 898246378073104384,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT @ProyectoAyudaJB: Pudieron descargar #Friends en iTunes? 
+
+#MTVHottest Justin Bieber,
+user: [id: 817214854633115648,created_at: Fri Jan 06 04:42:59 CET 2017,name: brizel biebs,screen_name: ManningsBrizel]]
+
+
+Tweet Fetched: [id: 898246358070685696,
+created_at: Thu Aug 17 20:13:15 CEST 2017,
+text: RT @_journalsbieber: NIE MA CO, BIEBER ROZJEBAŁ #friends https://t.co/D6gemiD5Ql,
+user: [id: 1169097607,created_at: Mon Feb 11 15:41:19 CET 2013,name: Bieber ty dupku,screen_name: biebrix]]
+
+
+Tweet Fetched: [id: 898246379495190528,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT googuns_lulz: #MTVHottest Justin Bieber https://t.co/iqbCwtDw4y,
+user: [id: 2891794695,created_at: Tue Nov 25 10:45:57 CET 2014,name: J,screen_name: BiebsIsMyPizza]]
+
+
+Tweet Fetched: [id: 898246381873364994,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT googuns_lulz: #MTVHottest Justin Bieber https://t.co/sZp1gBGAfU,
+user: [id: 2891794695,created_at: Tue Nov 25 10:45:57 CET 2014,name: J,screen_name: BiebsIsMyPizza]]
+
+
+Tweet Fetched: [id: 898246384184373248,
+created_at: Thu Aug 17 20:13:21 CEST 2017,
+text: RT googuns_lulz: #MTVHottest Justin Bieber https://t.co/FIL02ZvhnP,
+user: [id: 2891794695,created_at: Tue Nov 25 10:45:57 CET 2014,name: J,screen_name: BiebsIsMyPizza]]
+
+
+Tweet Fetched: [id: 898246386357075969,
+created_at: Thu Aug 17 20:13:21 CEST 2017,
+text: RT googuns_lulz: #MTVHottest Justin Bieber https://t.co/zfOplbjPZL,
+user: [id: 2891794695,created_at: Tue Nov 25 10:45:57 CET 2014,name: J,screen_name: BiebsIsMyPizza]]
+
+
+Tweet Fetched: [id: 898246389221777410,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT googuns_lulz: #MTVHottest Justin Bieber https://t.co/xNXcvnF0ok,
+user: [id: 2891794695,created_at: Tue Nov 25 10:45:57 CET 2014,name: J,screen_name: BiebsIsMyPizza]]
+
+
+Tweet Fetched: [id: 898246391134343169,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT googuns_lulz: #MTVHottest Justin Bieber https://t.co/B8gzvSSjl6,
+user: [id: 2891794695,created_at: Tue Nov 25 10:45:57 CET 2014,name: J,screen_name: BiebsIsMyPizza]]
+
+
+Tweet Fetched: [id: 898246344468340737,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @BieberSideBR: #Friends
+Isso é a potência do Brasil!!!! 
+USA: 19 no iTunes
+Canadá: 9 no iTunes 
+Brasil: 1 no iTunes
+#MTVHottest Justin B…,
+user: [id: 887026500674965504,created_at: Mon Jul 17 21:09:32 CEST 2017,name: Ana Laura,screen_name: analaubear]]
+
+
+Tweet Fetched: [id: 898246368749166592,
+created_at: Thu Aug 17 20:13:17 CEST 2017,
+text: RT @BieberSideBR: Conforme os minutos vão passando, #Friends sobe o ranking no iTunes Mundial. Que lacre meu povo. #MTVHottest Justin… ,
+user: [id: 887026500674965504,created_at: Mon Jul 17 21:09:32 CEST 2017,name: Ana Laura,screen_name: analaubear]]
+
+
+Tweet Fetched: [id: 898246344376283138,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: ai q ódio a música nova do bieber eh mt boaaaa,
+user: [id: 150816180,created_at: Wed Jun 02 00:25:36 CEST 2010,name: MURILOVE,screen_name: muyrilo]]
+
+
+Tweet Fetched: [id: 898246344342622208,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @anegadobiba: Amei aquele nova música do Justin Bieber Quem we estiu bi frendis quem we estiu bi frendis jazzy rastou end 
+
+#Friends,
+user: [id: 858791662016966657,created_at: Sun Apr 30 23:14:22 CEST 2017,name: Ana flavia rocha,screen_name: Anaflav08883685]]
+
+
+Tweet Fetched: [id: 898246385501425664,
+created_at: Thu Aug 17 20:13:21 CEST 2017,
+text: RT @TwitterMoments: Justin Bieber released his new collaboration with BloodPop, #Friends. 😍 https://t.co/v9zkVwNrEr,
+user: [id: 3307205529,created_at: Wed Jun 03 19:19:19 CEST 2015,name: ㅤ,screen_name: dreambiebs]]
+
+
+Tweet Fetched: [id: 898246355990327296,
+created_at: Thu Aug 17 20:13:14 CEST 2017,
+text: RT @IsTeamBiebers: - Hazme feliz.
+- ¿Cómo?
+- Bésame
+- Aww enserio?
+- No pendejo, llévame a conocer a Justin.
+#MTVHottest Justin Bieber,
+user: [id: 756273748194516992,created_at: Fri Jul 22 01:44:47 CEST 2016,name: Bieber,screen_name: Bieber6_1994]]
+
+
+Tweet Fetched: [id: 898246345886126080,
+created_at: Thu Aug 17 20:13:12 CEST 2017,
+text: RT googuns_lulz: #MTVHottest Justin Bieber https://t.co/sJXYIspHvF,
+user: [id: 867798030682005504,created_at: Thu May 25 19:42:28 CEST 2017,name: Pancho,screen_name: CuentavotosJB13]]
+
+
+Tweet Fetched: [id: 898246364072558593,
+created_at: Thu Aug 17 20:13:16 CEST 2017,
+text: RT @BebitoBieber: Cuando te ves toda la película de Karate Kid para así al final escuchar Never Say Never / pero cortan esa parte… ,
+user: [id: 3166191308,created_at: Tue Apr 21 05:47:33 CEST 2015,name: Jocelyn Santos,screen_name: jocelynsantos92]]
+
+
+Tweet Fetched: [id: 898246344430714880,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @justingenerous: não acredito que justin bieber ainda não colocou a risada dele no itunes https://t.co/U36U9H8Csa,
+user: [id: 1114827732,created_at: Wed Jan 23 18:13:38 CET 2013,name: #friends,screen_name: kidralws]]
+
+
+Tweet Fetched: [id: 898246371911680000,
+created_at: Thu Aug 17 20:13:18 CEST 2017,
+text: Justin Bieber Wants To Know If We Can Still Be ‘Friends’ On New Dance Jam https://t.co/yFDfyWkh6P https://t.co/0yE6afsqAa,
+user: [id: 1357993609,created_at: Wed Apr 17 00:08:40 CEST 2013,name: POWER 102.5 New York,screen_name: POWER1025NY]]
+
+
+Tweet Fetched: [id: 898246367600148480,
+created_at: Thu Aug 17 20:13:17 CEST 2017,
+text: RT @biebercharts: The impact of Justin Bieber's new single '#Friends' has crashed the iTunes around the world.,
+user: [id: 826931862799003651,created_at: Thu Feb 02 00:14:54 CET 2017,name: Justin Bieber Charts,screen_name: biebercharts]]
+
+
+Tweet Fetched: [id: 898246345214930946,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @PapetheGreat: New justin Bieber is fire as usual 🔥,
+user: [id: 365471910,created_at: Wed Aug 31 16:08:07 CEST 2011,name: W,screen_name: WietaRosita]]
+
+
+Tweet Fetched: [id: 898246371777667072,
+created_at: Thu Aug 17 20:13:18 CEST 2017,
+text: RT MoonxlightJB: #MTVHottest Justin Bieber https://t.co/kwKYWLDsBk,
+user: [id: 3411788963,created_at: Mon Aug 10 05:22:44 CEST 2015,name: JB,screen_name: MoonxlightJB]]
+
+
+Tweet Fetched: [id: 898246375040622592,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT MoonxlightJB: #MTVHottest Justin Bieber https://t.co/71MIvFdyew,
+user: [id: 3411788963,created_at: Mon Aug 10 05:22:44 CEST 2015,name: JB,screen_name: MoonxlightJB]]
+
+
+Tweet Fetched: [id: 898246378031202304,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT MoonxlightJB: #MTVHottest Justin Bieber https://t.co/1XXvD5UU2O,
+user: [id: 3411788963,created_at: Mon Aug 10 05:22:44 CEST 2015,name: JB,screen_name: MoonxlightJB]]
+
+
+Tweet Fetched: [id: 898246380476432384,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT MoonxlightJB: #MTVHottest Justin Bieber https://t.co/xaQaYBRCvv,
+user: [id: 3411788963,created_at: Mon Aug 10 05:22:44 CEST 2015,name: JB,screen_name: MoonxlightJB]]
+
+
+Tweet Fetched: [id: 898246382926131202,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT MoonxlightJB: #MTVHottest Justin Bieber https://t.co/JUoB5fkPWW,
+user: [id: 3411788963,created_at: Mon Aug 10 05:22:44 CEST 2015,name: JB,screen_name: MoonxlightJB]]
+
+
+Tweet Fetched: [id: 898246385119764480,
+created_at: Thu Aug 17 20:13:21 CEST 2017,
+text: RT MoonxlightJB: #MTVHottest Justin Bieber https://t.co/FjOvrdqqE7,
+user: [id: 3411788963,created_at: Mon Aug 10 05:22:44 CEST 2015,name: JB,screen_name: MoonxlightJB]]
+
+
+Tweet Fetched: [id: 898246388512727040,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT MoonxlightJB: #MTVHottest Justin Bieber https://t.co/h9F027QoMT,
+user: [id: 3411788963,created_at: Mon Aug 10 05:22:44 CEST 2015,name: JB,screen_name: MoonxlightJB]]
+
+
+Tweet Fetched: [id: 898246390853361665,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT MoonxlightJB: #MTVHottest Justin Bieber https://t.co/5lAhRUGcl4,
+user: [id: 3411788963,created_at: Mon Aug 10 05:22:44 CEST 2015,name: JB,screen_name: MoonxlightJB]]
+
+
+Tweet Fetched: [id: 898246353566003201,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: RT @PapetheGreat: New justin Bieber is fire as usual 🔥,
+user: [id: 364908846,created_at: Tue Aug 30 17:06:52 CEST 2011,name: 2U,screen_name: ouravonglory]]
+
+
+Tweet Fetched: [id: 898246379604131840,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT @biggersbieber: sedenta pra ver justin bieber desbancando ele próprio mais uma vez,
+user: [id: 1616541474,created_at: Wed Jul 24 04:03:14 CEST 2013,name: ㅤؘ,screen_name: trxyeburns]]
+
+
+Tweet Fetched: [id: 898246373463662592,
+created_at: Thu Aug 17 20:13:18 CEST 2017,
+text: RT @BieberQueene: Can't wait to hear #friends ! Excited ! 
+#justinbieber 
+#mtvhottest Justin Bieber 
+#Beliebers 
+#music https://t.co/CuGNhf…,
+user: [id: 2263518558,created_at: Fri Dec 27 01:27:27 CET 2013,name: ☪am,screen_name: Camicabralok]]
+
+
+Tweet Fetched: [id: 898246367583195136,
+created_at: Thu Aug 17 20:13:17 CEST 2017,
+text: RT @_deadputa: Estou a tentar entender porque é que fizeram esta comparação https://t.co/0Oa9sXDAip,
+user: [id: 2736442493,created_at: Thu Aug 07 20:53:01 CEST 2014,name: Inês,screen_name: inessantunes]]
+
+
+Tweet Fetched: [id: 898246375506419714,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT @istanaking: Justin Bieber literally broke iTunes, I stan a living legend,
+user: [id: 1396570992,created_at: Thu May 02 10:15:43 CEST 2013,name: michelle,screen_name: oohmybiieber]]
+
+
+Tweet Fetched: [id: 898246339569618950,
+created_at: Thu Aug 17 20:13:10 CEST 2017,
+text: RT @BieberSideBR: MEU DEUS! #Friends #MTVHottest Justin Bieber https://t.co/kcfqL8xwzr,
+user: [id: 847870374025056256,created_at: Fri Mar 31 19:57:04 CEST 2017,name: justin#friends,screen_name: JBSM29878035]]
+
+
+Tweet Fetched: [id: 898246346876100608,
+created_at: Thu Aug 17 20:13:12 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/N9DCCNzqeC,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246349199523841,
+created_at: Thu Aug 17 20:13:12 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/U1Wr6EeJ93,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246351728914432,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/aUT4D2mn8A,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246354023178240,
+created_at: Thu Aug 17 20:13:14 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/7Du8EhLaMn,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246356526972929,
+created_at: Thu Aug 17 20:13:14 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/JbgNaluNF6,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246358598959104,
+created_at: Thu Aug 17 20:13:15 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/5kvkkPDSDr,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246361014968320,
+created_at: Thu Aug 17 20:13:15 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/sZkUUbvRrt,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246363573563392,
+created_at: Thu Aug 17 20:13:16 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/Ivapu81HAs,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246365951565824,
+created_at: Thu Aug 17 20:13:16 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/Xq9YWUzQE7,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246368506126336,
+created_at: Thu Aug 17 20:13:17 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/q5ekPTB1Iv,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246370825392128,
+created_at: Thu Aug 17 20:13:18 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/oMteOjlA1S,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246373497286656,
+created_at: Thu Aug 17 20:13:18 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/DtFOCZGBAr,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246375913148416,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/5k3ou0JMzT,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246378178174976,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/dlbjoRDODd,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246381365633025,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/hMIZfrxwHL,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246384163401728,
+created_at: Thu Aug 17 20:13:21 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/m3cAbowxAt,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246386667454464,
+created_at: Thu Aug 17 20:13:21 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/4c5028mjjQ,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246389095956481,
+created_at: Thu Aug 17 20:13:22 CEST 2017,
+text: RT CuentavotosJB44: #MTVHottest Justin Bieber https://t.co/Q5UR4LGqBe,
+user: [id: 893257443412672512,created_at: Fri Aug 04 01:49:05 CEST 2017,name: Fabricio,screen_name: CuentavotosJB44]]
+
+
+Tweet Fetched: [id: 898246352081010688,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: RT @BieberNovidade: Já aprendi a cantar, tá feliz Bieber? Não consigo parar de ouvir, está repetindo toda hora e eu nem percebo. 💕😂,
+user: [id: 852075476206194688,created_at: Wed Apr 12 10:26:39 CEST 2017,name: cn w still b friends,screen_name: miriankidrauhl]]
+
+
+Tweet Fetched: [id: 898246341591171076,
+created_at: Thu Aug 17 20:13:11 CEST 2017,
+text: RT @cvntyybieber: &amp; thats a FACT. https://t.co/EM2fRddEhk,
+user: [id: 593730314,created_at: Tue May 29 15:59:57 CEST 2012,name: ™,screen_name: JDBlovingU]]
+
+
+Tweet Fetched: [id: 898246377888636928,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT @biebercharts: The impact of Justin Bieber's new single '#Friends' has crashed the iTunes around the world.,
+user: [id: 870297612645269504,created_at: Thu Jun 01 17:14:55 CEST 2017,name: bea christina🌻,screen_name: Beatrizbea24]]
+
+
+Tweet Fetched: [id: 898246381898526720,
+created_at: Thu Aug 17 20:13:20 CEST 2017,
+text: RT @projetoojbbr: Se as beliebers brasileiras não são as melhores eu não sei quais são... #Friends ,QUE HINOOOOOOOO, 15 MINUTOS, 1 FR… ,
+user: [id: 3364493069,created_at: Tue Jul 07 19:39:15 CEST 2015,name: Helø,screen_name: mewphissz]]
+
+
+Tweet Fetched: [id: 898246377825648641,
+created_at: Thu Aug 17 20:13:19 CEST 2017,
+text: RT @eonlinebrasil: LACRE DO DIA! Justin Bieber lança novo single, #Friends, após cancelar turnê! VEM CONFERIR -&gt;… ,
+user: [id: 3037943369,created_at: Sun Feb 15 01:00:08 CET 2015,name: elle,screen_name: trustwme]]
+
+
+Tweet Fetched: [id: 898246350843895809,
+created_at: Thu Aug 17 20:13:13 CEST 2017,
+text: Omg Justin Bieber released a new song, my pussy is wet 😍😂,
+user: [id: 789392910,created_at: Wed Aug 29 15:56:26 CEST 2012,name: James,screen_name: jamesbray95]]
+
+
+Tweet Fetched: [id: 898246361589698562,
+created_at: Thu Aug 17 20:13:15 CEST 2017,
+text: RT @justingenerous: parabéns justin bieber por ser esse artista incrível merecedor de tudo que conquista pq talento e competência vc tem de…,
+user: [id: 1053764491,created_at: Wed Jan 02 00:46:45 CET 2013,name: ㅤ,screen_name: oitnbuteraz]]
+
+
